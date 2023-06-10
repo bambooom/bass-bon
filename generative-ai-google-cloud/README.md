@@ -29,3 +29,36 @@
 - Generative AI is a type of artificial intelligence (AI) that can create new content,
   such as text, images, audio, and video. It does this by learning from existing data
   and then using that knowledge to generate new and unique outputs.
+
+## 2. Introduction to Large Language Models
+
+- LLMs refer to large general-purpose language models can be pre-trained and then fine-tuned for specific purposes.
+- 3 features:
+  - Large:
+    - Large training dataset
+    - Large number of parameters
+  - General purpose
+    - Commonality of human languages
+    - Resource restriction
+  - Pre-trained and fine-tuned
+- PaLM = Pathways Language Model, released by Google in April 2022.
+- benefits for using LLMs:
+  1. They can generate human-quality text.
+  2. They can be used for many tasks, such as text summarization and code generation.
+  3. They can be trained on massive datasets of text and code.
+  4. They are constantly improving.
+- LLM Development, only need to thinks about prompt design
+- Use Cases: Question Answering
+- Prompt design is the process of creating prompts that **elicit the desired response** from a language model.
+
+- Prompt Design vs Prompt Engineering
+  - Prompt Design: involve instructions and context passed to a language model to achieve a desired task.
+    - the process of creating a prompt that is tailored to the specific task that this system is being asked to perform.
+  - Prompt Engineering: is the practice of developing and optimizing prompts to efficiently use language models for a variety of applications.
+    - the process of creating a prompt that is designed to improve performance.
+    - more specialized concept
+- 3 kinds of LLM
+  - Generatic (Row) Language Models, predict next word based on the language in the training data
+  - Instruction Tuned | Trained, predict a response to the instructions given in the point
+  - Dialog Tuned | Trained, to have a dialog by predicting the next resoponse.
+- Parameter-Efficient Tuning Methods (PETM)
