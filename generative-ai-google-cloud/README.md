@@ -62,3 +62,16 @@
   - Instruction Tuned | Trained, predict a response to the instructions given in the point
   - Dialog Tuned | Trained, to have a dialog by predicting the next resoponse.
 - Parameter-Efficient Tuning Methods (PETM)
+
+## 3. Introduction to Responsible AI
+
+- AI is not infallible. Developing responsible AI requires an understanding of the possible issues, limitations, or unintended consequences. Technology is a reflection of what exists in society.
+- common theme: transparency, fairness, accountability, and privacy
+- 7 AI principles from June 2018:
+  1. AI should be socially beneficial.
+  2. AI should avoid creating or reinforcing unfair bias.
+  3. AI should be built and tested for safety.
+  4. AI should be accountable to people.
+  5. AI should incorporate privacy design principles.
+  6. AI should uphold high standards of scientific excellence.
+  7. AI should be made available for uses that accord with these principles.
