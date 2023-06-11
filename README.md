@@ -2,7 +2,7 @@
 
 ## Courses
 
-- [Generative AI by Google Cloud](./generative-ai-google-cloud/README.md): 3/10
+- [Generative AI by Google Cloud](./generative-ai-google-cloud/README.md): 5/10
   - [course link](https://www.cloudskillsboost.google/journeys/118)
 - AI for Beginners by Microsoft
   - [course link](https://microsoft.github.io/AI-For-Beginners/)

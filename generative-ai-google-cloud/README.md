@@ -1,4 +1,4 @@
-## 1. Introduction to Generative AI
+## Introduction to Generative AI
 
 ![](./images/ai-vs-ml.png)
 
@@ -30,7 +30,7 @@
   such as text, images, audio, and video. It does this by learning from existing data
   and then using that knowledge to generate new and unique outputs.
 
-## 2. Introduction to Large Language Models
+## Introduction to Large Language Models
 
 - LLMs refer to large general-purpose language models can be pre-trained and then fine-tuned for specific purposes.
 - 3 features:
@@ -63,7 +63,7 @@
   - Dialog Tuned | Trained, to have a dialog by predicting the next resoponse.
 - Parameter-Efficient Tuning Methods (PETM)
 
-## 3. Introduction to Responsible AI
+## Introduction to Responsible AI
 
 - AI is not infallible. Developing responsible AI requires an understanding of the possible issues, limitations, or unintended consequences. Technology is a reflection of what exists in society.
 - common theme: transparency, fairness, accountability, and privacy
@@ -75,3 +75,38 @@
   5. AI should incorporate privacy design principles.
   6. AI should uphold high standards of scientific excellence.
   7. AI should be made available for uses that accord with these principles.
+
+## Introduction to Image Generation (diffusion models)
+
+> https://www.youtube.com/watch?v=J0AuVBxzui0
+
+- Image Generation Model Families
+  - Variational Autoencoders - VAEs
+  - Generative Adversarial Models - GANs
+  - Autoregressive Models
+- Diffusuin Model: new trend
+  - draws inspiration from physics and thermodynamics
+  - uncinditioned generation: Human face synthesis, super-resolution
+  - conditioned generation:
+    - text-to-image: "Mona lisa with cat face"
+    - image-inpainting: "Remove woman from the image"
+    - text-guided image-to-image: "Disco dancer with colorful lights"
+- Denoising Diffusion Probabilistic Models (DDPM)
+
+![](./images/what-is-diffusion.png)
+![](./images/ddpm.png)
+![](./images/forward-diffusion.png)
+![](./images/reverse-diffusion.png)
+![](./images/ddpm-generation.png)
+
+
+## Platforms
+
+> below is answered by ChatGPT 3.5
+
+- Generative AI Studio is a platform that allows developers to build and deploy AI models that can generate new data, such as text, music, or images.
+It offers a range of tools and features that enable developers to train and optimize generative AI models, such as natural language processing (NLP) algorithms for text-based applications like chatbots.
+By using Generative AI Studio, developers can create and fine-tune a chatbot that can understand natural language inputs and generate appropriate responses.
+- Bard is a platform for language models that generate poetry.
+- Vertex AI is a platform that provides tools for building and deploying machine learning models.
+- While PaLM API is an API developed by Google that provides access to pre-trained LLM models for various tasks.
