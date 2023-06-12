@@ -8,7 +8,13 @@
   - [course link](https://microsoft.github.io/AI-For-Beginners/)
 - ChatGPT Prompt Engineering for Developers
   - [course link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Learn Prompting](https://learnprompting.org/)
+- [Elements of AI](https://www.elementsofai.com/)
+- [Courses by Andrew Ng](https://www.deeplearning.ai/)
 
+## Tutorials
+
+- [ ] [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/)
 
 ## Articles
 
