@@ -110,3 +110,42 @@ By using Generative AI Studio, developers can create and fine-tune a chatbot tha
 - Bard is a platform for language models that generate poetry.
 - Vertex AI is a platform that provides tools for building and deploying machine learning models.
 - While PaLM API is an API developed by Google that provides access to pre-trained LLM models for various tasks.
+
+## Encoder-Decoder Architecture
+
+### overview
+
+> https://www.youtube.com/watch?v=qZxtqYlZHnM
+
+- encoder stage produces a vector representation of the input sentence
+- decoder stagte
+  - to predict the next word in the output sequence
+  - to generate the output sequence from the vector representation
+- recurrent neural network
+- two ways to generate text from a trained encoder-decoder model at serving time
+  - greedy search
+  - beam search
+  - **Greedy search** always selects the word with the highest probability, whereas **beam search** considers multiple possible words and selects the one with the highest combined probability.
+- teacher forcing, force the decoder to generate the next token from the correct previous token
+- attension mechanism
+
+### lab walkthrough (not completed)
+
+> https://www.youtube.com/watch?v=FW--2KkTQ1s
+
+[Lab resource](https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/text_generation.ipynb)
+
+The video is the walkthrough tutorial of the lab.
+
+## Attention Mechanism
+
+> https://www.youtube.com/watch?v=iYC8eZL2kKw
+
+- Attention mechanism is a technique that allows the neural network to focus on specific parts of an input sequence.
+This is done by assigning weights to different parts of the input sequence with the most important parts receiving the highest weights.
+- Attention model differs from a traditional model:
+  - encoder passing more data to decoder
+  - extra step before producing its output:
+    - look at the set of encoder hidden states that it received
+    - give each hidden state a score
+    - multiply each hidden state by its soft-maxed score, thus amplifying hidden states with the highest scores and downsizing hidden states with low scores.
