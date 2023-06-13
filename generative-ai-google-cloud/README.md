@@ -171,6 +171,8 @@ Transformer Models:
     - GPT-3, GPT-2: decoder only
     - BERT: encoder only
 
+![](./images/transformer.png)
+
 BERT:
 - bidirectional encoder representations from transformers and was developed by Google in 2018
 - Today, BERT powers Google search
@@ -181,8 +183,24 @@ BERT:
   - Token, segment, and position embeddings
 - fine-tuning a BERT model: Training the model and updating the pre-trained weights on a specific task by using labeled data
 
+![](./images/BERT.png)
+
 ### lab (not completed)
 
 > https://www.youtube.com/watch?v=6hhvQb8tSPs
 
 [lab resources](https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb)
+
+## Create Image Captioning Models
+
+### overview
+
+> https://www.youtube.com/watch?v=7a5SMSCzTg8
+
+use pre-trained CNN image model
+
+### lab (not completed)
+
+> https://www.youtube.com/watch?v=c8VO_Lf1cjA
+
+[lab resources](https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/multi_modal/solutions/image_captioning.ipynb)
