@@ -149,3 +149,40 @@ This is done by assigning weights to different parts of the input sequence with 
     - look at the set of encoder hidden states that it received
     - give each hidden state a score
     - multiply each hidden state by its soft-maxed score, thus amplifying hidden states with the highest scores and downsizing hidden states with low scores.
+
+## Transformer Models and BERT Model
+
+### overview
+
+> https://www.youtube.com/watch?v=sUCiDU8GhMA
+
+Transformer Models:
+  - Attension is All you need
+  - A transformer is an encoder decoder model that uses the attention mechanism. It can take advantage of pluralization and also process a large amount of data at the same time.
+  - The encoder ingests an input sequence and produces a sequence of hidden states. The decoder takes in the hidden states from the encoder and produces an output sequence.
+  - Process of getting the final `z` embeddings:
+    1. Input natural language sentences
+    2. Embed each word
+    3. Perform multi-headed attention, and multiple the embedded words with the respective weight matrices
+    4. Calculate the attention using the resulting QKV matrices
+    5. Concatenate the matrices to produce the output matrix which is the same dimension as the final matrix
+  - Pre-trained transform model examples:
+    - BART: encoder & decoder
+    - GPT-3, GPT-2: decoder only
+    - BERT: encoder only
+
+BERT:
+- bidirectional encoder representations from transformers and was developed by Google in 2018
+- Today, BERT powers Google search
+- 2 tasks:
+  - Masked language modeling
+  - Next sentence prediction
+- three different embeddings that are generated from an input sentence in a Transformer model
+  - Token, segment, and position embeddings
+- fine-tuning a BERT model: Training the model and updating the pre-trained weights on a specific task by using labeled data
+
+### lab (not completed)
+
+> https://www.youtube.com/watch?v=6hhvQb8tSPs
+
+[lab resources](https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb)
