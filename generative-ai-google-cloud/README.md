@@ -204,3 +204,36 @@ use pre-trained CNN image model
 > https://www.youtube.com/watch?v=c8VO_Lf1cjA
 
 [lab resources](https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/multi_modal/solutions/image_captioning.ipynb)
+
+## Introduction to Generative AI Studio
+
+Generative AI Studio： https://cloud.google.com/generative-ai-studio
+
+> https://www.youtube.com/watch?v=uwbMDp3KprU
+
+> [Reflection Cards](https://storage.googleapis.com/cloud-training/cls-html5-courses/T-GENAISTUDIO-B/index.html#/)
+
+
+Vertex AI is an end-to-end ML development platform on Google Cloud that helps you build, deploy, and manage machine learning models.
+With Vertex AI, if you are an app developer or data scientist and want to build an application, you can use Generative AI Studio to quickly prototype and customize generative AI models with no code or low code.
+
+If you are a data scientist or ML developer who wants to build and automate a generative AI model, you can start from Model Garden.
+**Model Garden** lets you discover and interact with Google’s foundation and third-party open source models and has built-in MLOps tools to automate the ML pipeline.
+
+- Prompt design: the process of designing the best input text to get the desired response back from the model.
+  - 3 methods that you can use to shape the model's response
+    - zero-shot
+    - one-shot
+    - few-shot
+  - Best practices:
+    - Be concise
+    - Be specific and well-defined
+    - Ask one task at a time
+    - Turn generative tasks into classification tasks
+    - Include examples
+
+Fine-tuning needs large dataset, can be expansive...
+
+Parameter-efficient tuning, reduce challenges of fine-tuning, only trains a subset of parameters.
+
+[Lab](https://www.cloudskillsboost.google/course_sessions/3468762/labs/381265) needs 5 credits which is required to subscribe the Google Cloud Skills Boost, free trial with 30 days.
