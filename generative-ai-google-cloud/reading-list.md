@@ -33,3 +33,5 @@
 - [Bard now helps you code](https://blog.google/technology/ai/code-with-bard/)
 - [Model Garden](https://cloud.google.com/model-garden)
 - [Auto-generated Summaries in Google Docs](https://ai.googleblog.com/2022/03/auto-generated-summaries-in-google-docs.html)
+- [Overview of text prompt design](https://cloud.google.com/vertex-ai/docs/generative-ai/text/text-overview)
+- [A guide to parameter-efficient fine-tuning](https://arxiv.org/pdf/2303.15647.pdf)

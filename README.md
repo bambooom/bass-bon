@@ -4,6 +4,8 @@
 
 - [Generative AI by Google Cloud](./generative-ai-google-cloud/README.md)
   - [course link](https://www.cloudskillsboost.google/journeys/118)
+  - [Generative AI Studio](https://cloud.google.com/generative-ai-studio)
+  - Course: Natural Language Processing on Google Cloud on [Coursera](https://www.coursera.org/learn/sequence-models-tensorflow-gcp), [Google CLoud Skills Boost](https://www.cloudskillsboost.google/course_templates/40), and [Pluralsight](https://www.pluralsight.com/courses/natural-language-processing-google-cloud)
 - AI for Beginners by Microsoft
   - [course link](https://microsoft.github.io/AI-For-Beginners/)
 - ChatGPT Prompt Engineering for Developers
