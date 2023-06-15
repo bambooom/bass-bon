@@ -6,8 +6,9 @@
   - [course link](https://www.cloudskillsboost.google/journeys/118)
   - [Generative AI Studio](https://cloud.google.com/generative-ai-studio)
   - Course: Natural Language Processing on Google Cloud on [Coursera](https://www.coursera.org/learn/sequence-models-tensorflow-gcp), [Google CLoud Skills Boost](https://www.cloudskillsboost.google/course_templates/40), and [Pluralsight](https://www.pluralsight.com/courses/natural-language-processing-google-cloud)
-- AI for Beginners by Microsoft
+- [doing] AI for Beginners by Microsoft
   - [course link](https://microsoft.github.io/AI-For-Beginners/)
+  - [Mindmap of the course](http://soshnikov.com/courses/ai-for-beginners/mindmap.html)
 - ChatGPT Prompt Engineering for Developers
   - [course link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Learn Prompting](https://learnprompting.org/)
