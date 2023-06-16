@@ -64,6 +64,7 @@ Untyped-Language | doesn't have | type definitions
    - **Scenarios** are special kind of frames that represent complex situations that can unfold in time.
 
 **Python**
+
 Slot | Value | Default value | Interval |
 -----|-------|---------------|----------|
 Name | Python | | |
@@ -107,7 +108,7 @@ IF the animal eats meat
 OR (animal has sharp teeth
     AND animal has claws
     AND animal has forward-looking eyes
-) 
+)
 THEN the animal is a carnivore
 ```
 

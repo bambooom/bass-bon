@@ -16,7 +16,7 @@
 |:---:|
 | AI For Beginners - _Sketchnote by [@girlie_mac](https://twitter.com/girlie_mac)_ |
 
-Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about **Artificial Intelligence**. 
+Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about **Artificial Intelligence**.
 
 In this curriculum, you will learn:
 
@@ -43,15 +43,15 @@ For a gentle introduction to *AI in the Cloud* topics you may consider taking th
 <tr><th>No</th><th>Lesson</th><th>Intro</th><th>PyTorch</th><th>Keras/TensorFlow</th><th>Lab</th></tr>
 
 <tr><td>I</td><td colspan="4"><b>Introduction to AI</b></td><td></td></tr>
-<tr><td>1</td><td>Introduction and History of AI</td><td><a href="lessons/1-Intro/README.md">Text</a></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td>Introduction and History of AI</td><td><a href="lessons/1-Intro/README.md">Text✅</a></td><td></td><td></td><td></td></tr>
 
 <tr><td>II</td><td colspan="4"><b>Symbolic AI</b></td><td></td></tr>
-<tr><td>2 </td><td>Knowledge Representation and Expert Systems</td><td><a href="lessons/2-Symbolic/README.md">Text</a></td><td colspan="2"><a href="lessons/2-Symbolic/Animals.ipynb">Expert System</a>, <a href="lessons/2-Symbolic/FamilyOntology.ipynb">Ontology</a>, <a href="lessons/2-Symbolic/MSConceptGraph.ipynb">Concept Graph</a></td><td></td></tr>
+<tr><td>2 </td><td>Knowledge Representation and Expert Systems</td><td><a href="lessons/2-Symbolic/README.md">Text✅</a></td><td colspan="2"><a href="lessons/2-Symbolic/Animals.ipynb">Expert System</a>, <a href="lessons/2-Symbolic/FamilyOntology.ipynb">Ontology</a>, <a href="lessons/2-Symbolic/MSConceptGraph.ipynb">Concept Graph</a></td><td></td></tr>
 <tr><td>III</td><td colspan="4"><b><a href="lessons/3-NeuralNetworks/README.md">Introduction to Neural Networks</a></b></td><td></td></tr>
 <tr><td>3</td><td>Perceptron</td>
    <td><a href="lessons/3-NeuralNetworks/03-Perceptron/README.md">Text</a>
    <td colspan="2"><a href="lessons/3-NeuralNetworks/03-Perceptron/Perceptron.ipynb">Notebook</a></td><td><a href="lessons/3-NeuralNetworks/03-Perceptron/lab/README.md">Lab</a></td></tr>
-<tr><td>4 </td><td>Multi-Layered Perceptron and Creating our own Framework</td><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/README.md">Text</a></td><td colspan="2"><a href="lessons/3-NeuralNetworks/04-OwnFramework/OwnFramework.ipynb">Notebook</a><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/lab/README.md">Lab</a></td></tr> 
+<tr><td>4 </td><td>Multi-Layered Perceptron and Creating our own Framework</td><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/README.md">Text</a></td><td colspan="2"><a href="lessons/3-NeuralNetworks/04-OwnFramework/OwnFramework.ipynb">Notebook</a><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/lab/README.md">Lab</a></td></tr>
 <tr><td>5</td>
    <td>Intro to Frameworks (PyTorch/TensorFlow)<br/>Overfitting</td>
    <td><a href="lessons/3-NeuralNetworks/05-Frameworks/README.md">Text</a><br/><a href="lessons/3-NeuralNetworks/05-Frameworks/Overfitting.md">Text</a></td>
@@ -99,7 +99,7 @@ For a gentle introduction to *AI in the Cloud* topics you may consider taking th
 
 **[Mindmap of the Course](http://soshnikov.com/courses/ai-for-beginners/mindmap.html)**
 
-Each lesson contains some pre-reading material (linked as **Text** above), and some executable Jupyter Notebooks, which are often specific to the framework (**PyTorch** or **TensorFlow**). The executable notebook also contains a lot of theoretical material, so to understand the topic you need to go through at least one version of the notebooks (either PyTorch or TensorFlow). There are also **Labs** available for some topics, which give you an opportunity to try applying the material you have learned to a specific problem. 
+Each lesson contains some pre-reading material (linked as **Text** above), and some executable Jupyter Notebooks, which are often specific to the framework (**PyTorch** or **TensorFlow**). The executable notebook also contains a lot of theoretical material, so to understand the topic you need to go through at least one version of the notebooks (either PyTorch or TensorFlow). There are also **Labs** available for some topics, which give you an opportunity to try applying the material you have learned to a specific problem.
 
 Some sections also contain links to **MS Learn** modules that cover related topics. Microsoft Learn provides a convenient GPU-enabled learning environment, although in terms of content you can expect this curriculum to go a bit deeper.
 
@@ -119,7 +119,7 @@ Get started with the following resources:
 However, if you would like to take the course as a self-study project, we suggest that you fork the entire repo to your own GitHub account and complete the exercises on your own or with a group:
 
 - Start with a pre-lecture quiz
-- Read the intro text for the lecture 
+- Read the intro text for the lecture
 - If the lecture has additional notebooks, go through them, reading and executing the code. If both TensorFlow and PyTorch notebooks are provided, you can focus on one of them - choose your favorite framework
 - Notebooks often contain some of the challenges that require you to tweak the code a little bit to experiment
 - Take the post-lecture quiz
@@ -139,7 +139,7 @@ However, if you would like to take the course as a self-study project, we sugges
 **🔥 Editor:** [Jen Looper](https://twitter.com/jenlooper), PhD <br/>
 **🎨 Sketchnote illustrator:** [Tomomi Imura](https://twitter.com/girlie_mac) <br/>
 **✅ Quiz Creator:** [Lateefah Bello](https://github.com/CinnamonXI), [MLSA](https://studentambassadors.microsoft.com/)  <br/>
-**🙏 Core Contributors:** [Evgenii Pishchik](https://github.com/Pe4enIks) 
+**🙏 Core Contributors:** [Evgenii Pishchik](https://github.com/Pe4enIks)
 
 ## Meet the Team
 

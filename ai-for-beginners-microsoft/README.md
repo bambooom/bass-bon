@@ -11,3 +11,5 @@
   conda env create --name ai4beg --file .devcontainer/environment.yml
   conda activate ai4beg
   ```
+
+- open `.ipynb` in vscode via installing Python extension

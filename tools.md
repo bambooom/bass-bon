@@ -13,3 +13,9 @@ I have tried:
   - adding website as article, but maybe failed to extract the article info
   - turns article to podcast, no highlighting
   - 14-day trial
+
+## Translation
+
+- [using] [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+  - great! can config to using many different services: Microsoft, Google, DeepL, OpenAI etc.
+  - Bilingual display, smooth UX
