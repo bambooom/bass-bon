@@ -19,3 +19,9 @@ I have tried:
 - [using] [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
   - great! can config to using many different services: Microsoft, Google, DeepL, OpenAI etc.
   - Bilingual display, smooth UX
+
+
+## VSCode Extensions
+
+- [Run Jupyter Notebook](https://code.visualstudio.com/docs/datascience/jupyter-notebooks/?WT.mc_id=stud-42125-dmitryso)
+- [Dev containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)

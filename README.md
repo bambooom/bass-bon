@@ -22,3 +22,8 @@
 ## Articles
 
 - [ ] [GPT best practices (by OpenAI)](https://platform.openai.com/docs/guides/gpt-best-practices/gpt-best-practices)
+
+
+## Projects
+
+- [x] [Auto-GPT](./Auto-GPT/README.md): An Autonomous GPT-4 Experiment
