@@ -24,3 +24,9 @@
   - M$ Concept Graph notebook: 6.16 ✅
     - M$ Concept Graph service is already down, API request can't be done
   - Family Ontology notebook: 6.16 ✅
+- Lesson3:
+  - text: 6.19 ✅
+  - Perceptron Notebook: 6.19 ✅
+  - lab
+- Lesson4:
+  - text: 6.19 ✅

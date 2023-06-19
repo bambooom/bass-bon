@@ -49,9 +49,9 @@ For a gentle introduction to *AI in the Cloud* topics you may consider taking th
 <tr><td>2 </td><td>Knowledge Representation and Expert Systems</td><td><a href="lessons/2-Symbolic/README.md">Text✅</a></td><td colspan="2"><a href="lessons/2-Symbolic/Animals.ipynb">Expert System✅</a>, <a href="lessons/2-Symbolic/FamilyOntology.ipynb">Ontology✅</a>, <a href="lessons/2-Symbolic/MSConceptGraph.ipynb">Concept Graph✅</a></td><td></td></tr>
 <tr><td>III</td><td colspan="4"><b><a href="lessons/3-NeuralNetworks/README.md">Introduction to Neural Networks</a></b></td><td></td></tr>
 <tr><td>3</td><td>Perceptron</td>
-   <td><a href="lessons/3-NeuralNetworks/03-Perceptron/README.md">Text</a>
-   <td colspan="2"><a href="lessons/3-NeuralNetworks/03-Perceptron/Perceptron.ipynb">Notebook</a></td><td><a href="lessons/3-NeuralNetworks/03-Perceptron/lab/README.md">Lab</a></td></tr>
-<tr><td>4 </td><td>Multi-Layered Perceptron and Creating our own Framework</td><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/README.md">Text</a></td><td colspan="2"><a href="lessons/3-NeuralNetworks/04-OwnFramework/OwnFramework.ipynb">Notebook</a><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/lab/README.md">Lab</a></td></tr>
+   <td><a href="lessons/3-NeuralNetworks/03-Perceptron/README.md">Text✅</a>
+   <td colspan="2"><a href="lessons/3-NeuralNetworks/03-Perceptron/Perceptron.ipynb">Notebook✅</a></td><td><a href="lessons/3-NeuralNetworks/03-Perceptron/lab/README.md">Lab</a></td></tr>
+<tr><td>4 </td><td>Multi-Layered Perceptron and Creating our own Framework</td><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/README.md">Text✅</a></td><td colspan="2"><a href="lessons/3-NeuralNetworks/04-OwnFramework/OwnFramework.ipynb">Notebook</a><td><a href="lessons/3-NeuralNetworks/04-OwnFramework/lab/README.md">Lab</a></td></tr>
 <tr><td>5</td>
    <td>Intro to Frameworks (PyTorch/TensorFlow)<br/>Overfitting</td>
    <td><a href="lessons/3-NeuralNetworks/05-Frameworks/README.md">Text</a><br/><a href="lessons/3-NeuralNetworks/05-Frameworks/Overfitting.md">Text</a></td>
