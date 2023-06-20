@@ -27,9 +27,18 @@
 ## Projects
 
 - [x] [Auto-GPT](./Auto-GPT/README.md): An Autonomous GPT-4 Experiment
-- [ ] [ChatGPT CLI](https://github.com/j178/chatgpt)
 - https://www.mojidoc.com/08z7y-e43hjtkw3rglpkfnsqrgkuyyey-00b
-- [ ] [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+- [x] [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
+  - [demo video](https://twitter.com/antonosika/status/1667641038104674306)
+  - `pip install gpt-engineer`
+  - using one file `main_prompt` to descript what application want to build
+  - but this needs GPT-4 model
+  - hold it now as I don't have GPT-4 API access by 6/20/2023
+- [x] [ChatGPT CLI](https://github.com/j178/chatgpt)
+  - `brew install j178/tap/chatgpt`
+  - `export OPENAI_API_KEY=xxx`
+  - `chatgpt` to start in chat mode
+  - `chatgpt -p translator` with a provided prompt
 
 ## Applications
 
