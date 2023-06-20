@@ -30,3 +30,9 @@
   - lab
 - Lesson4:
   - text: 6.19 ✅
+  - OwnFramework Notebook: 6.20 ✅
+  - lab
+- Lesson5:
+  - text + overfitteing text: 6.20 ✅
+  - pytorch notebook: 6.20 ✅
+  - keras notebook: 6.20 ✅

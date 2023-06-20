@@ -29,7 +29,9 @@
 - [x] [Auto-GPT](./Auto-GPT/README.md): An Autonomous GPT-4 Experiment
 - [ ] [ChatGPT CLI](https://github.com/j178/chatgpt)
 - https://www.mojidoc.com/08z7y-e43hjtkw3rglpkfnsqrgkuyyey-00b
+- [ ] [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 
 ## Applications
 
 - [ ] [Framer](https://www.framer.com/)
+- [ ] [roomGPT](https://www.roomgpt.io/) - Redesign your room
