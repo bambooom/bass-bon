@@ -13,6 +13,7 @@
   ```
 
 - open `.ipynb` in vscode via installing Python extension
+- [DevPod](https://devpod.sh/) replace dev-container?
 
 ## Learning Logs
 
@@ -36,3 +37,9 @@
   - text + overfitteing text: 6.20 ✅
   - pytorch notebook: 6.20 ✅
   - keras notebook: 6.20 ✅
+- Lesson6:
+  - text: 6.21 ✅
+  - opencv notebook: 6.21 ✅
+  - lab
+- Lesson7:
+  - text + CNN text: 6.21 ✅

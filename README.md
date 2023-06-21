@@ -33,14 +33,24 @@
   - `pip install gpt-engineer`
   - using one file `main_prompt` to descript what application want to build
   - but this needs GPT-4 model
-  - hold it now as I don't have GPT-4 API access by 6/20/2023
+  - ❗️🈁🆖 hold it now as I don't have GPT-4 API access by 6/20/2023
 - [x] [ChatGPT CLI](https://github.com/j178/chatgpt)
   - `brew install j178/tap/chatgpt`
   - `export OPENAI_API_KEY=xxx`
   - `chatgpt` to start in chat mode
   - `chatgpt -p translator` with a provided prompt
+  - easy to use from CLI, no need the webpage
 
 ## Applications
 
 - [ ] [Framer](https://www.framer.com/)
 - [ ] [roomGPT](https://www.roomgpt.io/) - Redesign your room
+- [ ] [copilot hub](https://app.copilothub.ai/copilots)
+
+## Extended Material
+
+- OpenCV
+  - course: [Getting Started with OpenCV](https://learnopencv.com/getting-started-with-opencv/)
+  - [tutorial](https://docs.opencv.org/3.4/d9/df8/tutorial_root.html)
+  - article: [Optical Flow in OpenCV](https://learnopencv.com/optical-flow-in-opencv/)
+  - video: [2021 OpenCV AI Competition](https://learn.microsoft.com/en-us/shows/ai-show/ai-show--2021-opencv-ai-competition--grand-prize-winners--cortic-tigers--episode-32?WT.mc_id=academic-77998-cacaste)
