@@ -40,12 +40,20 @@
   - `chatgpt` to start in chat mode
   - `chatgpt -p translator` with a provided prompt
   - easy to use from CLI, no need the webpage
+- [x] [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator)
+  - `git clone git@github.com:jesselau76/ebook-GPT-translator.git`
+  - `pip install -r requirements.txt`
+  - `mv settings.cfg.example settings.cfg`
+  - edit `settings.cfg` file for openai-apikey
+  - `python text_translation.py [-h] [--test] filename`
 
 ## Applications
 
 - [ ] [Framer](https://www.framer.com/)
 - [ ] [roomGPT](https://www.roomgpt.io/) - Redesign your room
 - [ ] [copilot hub](https://app.copilothub.ai/copilots)
+- [ ] [ilumine ai](https://ilumine.ai/)
+  - "将Midjourney生成的图片转换成了可探索的3D场景。方法是现在SD control net中生成深度图，再将深度图应用在Unity顶点置换着色器。" via [source](https://twitter.com/sundyme/status/1671206023745634305)
 
 ## Extended Material
 
