@@ -6,11 +6,12 @@
   - [course link](https://www.cloudskillsboost.google/journeys/118)
   - [Generative AI Studio](https://cloud.google.com/generative-ai-studio)
   - Course: Natural Language Processing on Google Cloud on [Coursera](https://www.coursera.org/learn/sequence-models-tensorflow-gcp), [Google CLoud Skills Boost](https://www.cloudskillsboost.google/course_templates/40), and [Pluralsight](https://www.pluralsight.com/courses/natural-language-processing-google-cloud)
-- [doing] AI for Beginners by Microsoft
+- [**doing**] [AI for Beginners by Microsoft](./ai-for-beginners-microsoft/README.md)
   - [course link](https://microsoft.github.io/AI-For-Beginners/)
   - [Mindmap of the course](http://soshnikov.com/courses/ai-for-beginners/mindmap.html)
-- ChatGPT Prompt Engineering for Developers
+- [**reading**] [ChatGPT Prompt Engineering for Developers](./learn-prompting.md)
   - [course link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+  - basically a good documentation
 - [Learn Prompting](https://learnprompting.org/)
 - [Elements of AI](https://www.elementsofai.com/)
 - [Courses by Andrew Ng](https://www.deeplearning.ai/)
@@ -58,7 +59,8 @@
 - [ ] [ChatPDF](https://www.chatpdf.com/c/AenErpfcQ887lct6NblFr)
 - [ ] [FlowwiseAI](https://flowiseai.com/) - Open source UI visual tool to build your customized LLM flow using LangchainJS
 - [HeyGen](https://aimart.app/products/heygen) - Create engaging and personalized videos with generated real person
-
+- [ ] [WALE](https://trywale.com/) - Build better Prompts with custom data (introduced in learnprompting.org)
+  - required company email...
 ## List
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [aimart](https://aimart.app)
