@@ -46,6 +46,7 @@
   - `mv settings.cfg.example settings.cfg`
   - edit `settings.cfg` file for openai-apikey
   - `python text_translation.py [-h] [--test] filename`
+- [ ] [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 
 ## Applications
 
@@ -54,6 +55,14 @@
 - [ ] [copilot hub](https://app.copilothub.ai/copilots)
 - [ ] [ilumine ai](https://ilumine.ai/)
   - "将Midjourney生成的图片转换成了可探索的3D场景。方法是现在SD control net中生成深度图，再将深度图应用在Unity顶点置换着色器。" via [source](https://twitter.com/sundyme/status/1671206023745634305)
+- [ ] [ChatPDF](https://www.chatpdf.com/c/AenErpfcQ887lct6NblFr)
+- [ ] [FlowwiseAI](https://flowiseai.com/) - Open source UI visual tool to build your customized LLM flow using LangchainJS
+- [HeyGen](https://aimart.app/products/heygen) - Create engaging and personalized videos with generated real person
+
+## List
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [aimart](https://aimart.app)
+- [FutureTools](https://www.futuretools.io/)
 
 ## Extended Material
 
