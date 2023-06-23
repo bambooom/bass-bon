@@ -43,3 +43,9 @@
   - lab
 - Lesson7:
   - text + CNN text: 6.21 ✅
+- Lesson8:
+  - text + Traning tricks text: 6.23 ✅
+- Lesson9:
+  - anto-encoders text: 6.23 ✅
+- Lesson10:
+  - GAN test: 6.23 ✅
