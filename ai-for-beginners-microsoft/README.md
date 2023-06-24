@@ -49,3 +49,11 @@
   - anto-encoders text: 6.23 ✅
 - Lesson10:
   - GAN test: 6.23 ✅
+- Lesson11:
+  - text: 6.24 ✅
+- Lesson12:
+  - text: 6.24 ✅
+- Lesson13:
+  - text: 6.24 ✅
+- Lesson14:
+  - text: 6.24 ✅
