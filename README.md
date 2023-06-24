@@ -10,11 +10,9 @@
   - [course link](https://microsoft.github.io/AI-For-Beginners/)
   - [Mindmap of the course](http://soshnikov.com/courses/ai-for-beginners/mindmap.html)
 - [**reading**] [ChatGPT Prompt Engineering for Developers](./learn-prompting.md)
-  - [course link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-  - basically a good documentation
-- [Learn Prompting](https://learnprompting.org/)
+  - basically a good [documentation](https://learnprompting.org/docs/intro)
 - [Elements of AI](https://www.elementsofai.com/)
-- [Courses by Andrew Ng](https://www.deeplearning.ai/)
+- [Courses by Andrew Ng](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 ## Tutorials
 
