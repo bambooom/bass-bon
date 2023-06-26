@@ -57,3 +57,11 @@
   - text: 6.24 ✅
 - Lesson14:
   - text: 6.24 ✅
+- Lesson15:
+  - text: 6.26 ✅
+- Lesson16:
+  - text: 6.26 ✅
+- Lesson17:
+  - text: 6.26 ✅
+- Lesson18:
+  - text: 6.26 ✅
