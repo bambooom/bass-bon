@@ -51,3 +51,14 @@ no need to follow the order to read, only need to learn basics first.
   ```
 - 指定写作风格或指定某位著名的作者
 - 假设我是一名 5 岁的孩童，请为我总结这个：[在此处粘贴文本]
+
+## Intermediate
+
+- [chain of thoughts](https://learnprompting.org/zh-Hans/docs/intermediate/chain_of_thought), 鼓励大语言模型解释其推理过程，在样例中解释推理过程，大语言模型在回答提示时也会显示推理过程。这种推理的解释往往会引导出更准确的结果。
+- 零样本思维链：结尾附加“让我们一步步思考。”
+- Self-consistency：生成多个思路链，然后取多数答案作为最终答案
+- 最少到最多提示过程: 首先将问题分解为子问题，然后逐个解决，每一步都引入了上一步连接的结果
+- 关键要素:
+  - “基本事实的重要性不大”
+  - 标签空间很重要 (all the possible labels for a given task)
+  - 格式很重要: 因为它指示大语言格式如何正确地格式化其对提示的答案。
