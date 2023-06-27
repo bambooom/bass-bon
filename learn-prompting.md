@@ -62,3 +62,15 @@ no need to follow the order to read, only need to learn basics first.
   - “基本事实的重要性不大”
   - 标签空间很重要 (all the possible labels for a given task)
   - 格式很重要: 因为它指示大语言格式如何正确地格式化其对提示的答案。
+
+## Applied Prompting
+- 多项选择题:
+  - “让我们一步一步地解释”
+  - 将选项分类，`Identify each choice as strengthens, weakens or doesn't impact the argument.`
+  - `Give the expression as answer, not a number` to disable computation.
+- 讨论性问题
+  - `写一篇高度详细的论文，包括引言、正文和结论段，回答以下问题:`
+  - 开放问题改写成明确的定义问题：`写一篇高度详细的讨论回答，按照论文结构回答以下提示: 解释内战的原因以及扩张是否在冲突中起了作用。附上支持您论点的证据。`
+  - `我正在撰写一篇详细的短文，回答以下提示:`... `这是我目前的情况:`... `写下我文章的下一段。`
+  - 逐步地写作并在每个步骤上进行迭代
+- [simple chatbot](https://gist.github.com/jayo78/79d8834e6e31bf942c7b604e1611b68d)
