@@ -65,3 +65,17 @@
   - text: 6.26 ✅
 - Lesson18:
   - text: 6.26 ✅
+- Lesson19:
+  - text: 6.27 ✅
+- Lesson20:
+  - text: 6.27 ✅
+- Lesson21:
+  - text: 6.27 ✅
+- Lesson22:
+  - text: 6.27 ✅
+- Lesson23:
+  - text: 6.27 ✅
+- Lesson24:
+  - text: 6.27 ✅
+- Lesson X1:
+  - text: 6.27 ✅
