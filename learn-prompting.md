@@ -74,3 +74,15 @@ no need to follow the order to read, only need to learn basics first.
   - `我正在撰写一篇详细的短文，回答以下提示:`... `这是我目前的情况:`... `写下我文章的下一段。`
   - 逐步地写作并在每个步骤上进行迭代
 - [simple chatbot](https://gist.github.com/jayo78/79d8834e6e31bf942c7b604e1611b68d)
+
+## Advanced Application
+- LLMs Using Tools: MRKL Systems1 (Modular Reasoning, Knowledge and Language, pronounced "miracle"): 结合了LLMs（神经计算）和像计算器（符号计算）这样的外部工具，用于解决复杂问题。
+  - 一个简单的MRKL系统示例是一个可以使用计算器应用程序的 LLM
+  - [dust.tt](https://dust.tt/w/ddebdfcdde/a/98bdd65cb7) 的一个例子
+  - more examples:
+    - [使用LangChain构建](https://api.python.langchain.com/en/latest/modules/agents.html#langchain.agents.MRKLChain)
+    - 最初由[ai21](https://www.ai21.com/)开发
+- 具有推理和行动能力的LLMs：ReAct（reason & act)，被视为具有推理和行动能力的MRKL系统
+  - HotPotQA：思想，行动，观察循环
+- 代码推理：是另一个MRKL系统的例子
+  - [解决数学问题的例子](https://github.com/trigaten/Learn_Prompting/blob/main/docs/code_examples/PAL.ipynb)
