@@ -6,13 +6,17 @@
   - [course link](https://www.cloudskillsboost.google/journeys/118)
   - [Generative AI Studio](https://cloud.google.com/generative-ai-studio)
   - Course: Natural Language Processing on Google Cloud on [Coursera](https://www.coursera.org/learn/sequence-models-tensorflow-gcp), [Google CLoud Skills Boost](https://www.cloudskillsboost.google/course_templates/40), and [Pluralsight](https://www.pluralsight.com/courses/natural-language-processing-google-cloud)
-- [**doing**] [AI for Beginners by Microsoft](./ai-for-beginners-microsoft/README.md)
+- [*hold*] [AI for Beginners by Microsoft](./ai-for-beginners-microsoft/README.md)
   - [course link](https://microsoft.github.io/AI-For-Beginners/)
   - [Mindmap of the course](http://soshnikov.com/courses/ai-for-beginners/mindmap.html)
 - [**reading**] [ChatGPT Prompt Engineering for Developers](./learn-prompting.md)
   - basically a good [documentation](https://learnprompting.org/docs/intro)
 - [Elements of AI](https://www.elementsofai.com/)
-- [Courses by Andrew Ng](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Short courses by Andrew Ng](https://www.deeplearning.ai/short-courses/)
+  - [**learning**] [Building Systems with the ChatGPT API](./short-courses-deeplearning.ai/chatgpt-building-system/)
+  - [ChatGPT Prompt Engineering for Developers]
+  - [LangChain for LLM Application Development]
+  - [How Diffusion Models Work]
 
 ## Tutorials
 
