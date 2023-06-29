@@ -52,7 +52,7 @@ no need to follow the order to read, only need to learn basics first.
 - 指定写作风格或指定某位著名的作者
 - 假设我是一名 5 岁的孩童，请为我总结这个：[在此处粘贴文本]
 
-## Intermediate
+## Intermediate ✅
 
 - [chain of thoughts](https://learnprompting.org/zh-Hans/docs/intermediate/chain_of_thought), 鼓励大语言模型解释其推理过程，在样例中解释推理过程，大语言模型在回答提示时也会显示推理过程。这种推理的解释往往会引导出更准确的结果。
 - 零样本思维链：结尾附加“让我们一步步思考。”
@@ -63,7 +63,7 @@ no need to follow the order to read, only need to learn basics first.
   - 标签空间很重要 (all the possible labels for a given task)
   - 格式很重要: 因为它指示大语言格式如何正确地格式化其对提示的答案。
 
-## Applied Prompting
+## Applied Prompting ✅
 - 多项选择题:
   - “让我们一步一步地解释”
   - 将选项分类，`Identify each choice as strengthens, weakens or doesn't impact the argument.`
@@ -75,7 +75,7 @@ no need to follow the order to read, only need to learn basics first.
   - 逐步地写作并在每个步骤上进行迭代
 - [simple chatbot](https://gist.github.com/jayo78/79d8834e6e31bf942c7b604e1611b68d)
 
-## Advanced Application
+## Advanced Application ✅
 - LLMs Using Tools: MRKL Systems1 (Modular Reasoning, Knowledge and Language, pronounced "miracle"): 结合了LLMs（神经计算）和像计算器（符号计算）这样的外部工具，用于解决复杂问题。
   - 一个简单的MRKL系统示例是一个可以使用计算器应用程序的 LLM
   - [dust.tt](https://dust.tt/w/ddebdfcdde/a/98bdd65cb7) 的一个例子
@@ -86,3 +86,20 @@ no need to follow the order to read, only need to learn basics first.
   - HotPotQA：思想，行动，观察循环
 - 代码推理：是另一个MRKL系统的例子
   - [解决数学问题的例子](https://github.com/trigaten/Learn_Prompting/blob/main/docs/code_examples/PAL.ipynb)
+
+## Reliability ✅
+
+- remove bias:
+  - 分布：提供不同类别样例的数量、顺序，都可能导致偏差
+  - 可以明确提示有偏差并要求尽量减少：`我们应该平等对待不同社会经济地位、性取向、宗教、种族、外貌、国籍、性别认同、残疾和年龄的人群。当我们没有足够的信息时，应该选择未知选项，而不是根据我们的刻板印象做出假设。`
+- ensembling 使用多个不同的提示来尝试回答同一个问题
+  - DiVeRSe
+  - AMA Prompting
+    - formatted like "Context: ..., Question:..."
+- 自我评估，批判结果
+- MathPrompter
+  1. Generate Algebraic Template
+  2. Express Answer by using algebraic terms
+  3. Turn it into python code
+  4. Answer question by execute python function code
+  5. self-consistency: rerun multiple times(~5), take the majority answer
