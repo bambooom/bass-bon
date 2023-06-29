@@ -50,6 +50,8 @@
   - edit `settings.cfg` file for openai-apikey
   - `python text_translation.py [-h] [--test] filename`
 - [ ] [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
+- [ ] [click-prompt](https://github.com/prompt-engineering/click-prompt)
+  - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.
 
 ## Applications
 
@@ -63,6 +65,8 @@
 - [HeyGen](https://aimart.app/products/heygen) - Create engaging and personalized videos with generated real person
 - [ ] [WALE](https://trywale.com/) - Build better Prompts with custom data (introduced in learnprompting.org)
   - required company email...
+- [ ] [Generated Humans](https://generated.photos/humans)
+
 ## List
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [aimart](https://aimart.app)
