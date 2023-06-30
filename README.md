@@ -66,6 +66,10 @@
 - [ ] [WALE](https://trywale.com/) - Build better Prompts with custom data (introduced in learnprompting.org)
   - required company email...
 - [ ] [Generated Humans](https://generated.photos/humans)
+- [ ] [Create and edit images - playgroundai](https://playgroundai.com/)
+  - Create 1,000 images per day for free, and can use images commercially
+- [lexica art - a database of AI images](https://lexica.art/aperture)
+- [mathGPT](https://mathgpt.streamlit.app/)
 
 ## List
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
