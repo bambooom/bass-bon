@@ -2,14 +2,14 @@
 
 ## Courses
 
-- [Generative AI by Google Cloud](./generative-ai-google-cloud/README.md)
+- [done] [Generative AI by Google Cloud](./generative-ai-google-cloud/README.md)
   - [course link](https://www.cloudskillsboost.google/journeys/118)
   - [Generative AI Studio](https://cloud.google.com/generative-ai-studio)
   - Course: Natural Language Processing on Google Cloud on [Coursera](https://www.coursera.org/learn/sequence-models-tensorflow-gcp), [Google CLoud Skills Boost](https://www.cloudskillsboost.google/course_templates/40), and [Pluralsight](https://www.pluralsight.com/courses/natural-language-processing-google-cloud)
 - [*hold*] [AI for Beginners by Microsoft](./ai-for-beginners-microsoft/README.md)
   - [course link](https://microsoft.github.io/AI-For-Beginners/)
   - [Mindmap of the course](http://soshnikov.com/courses/ai-for-beginners/mindmap.html)
-- [**reading**] [ChatGPT Prompt Engineering for Developers](./learn-prompting.md)
+- [done] [ChatGPT Prompt Engineering for Developers](./learn-prompting.md)
   - basically a good [documentation](https://learnprompting.org/docs/intro)
 - [Elements of AI](https://www.elementsofai.com/)
 - [Short courses by Andrew Ng](https://www.deeplearning.ai/short-courses/)
@@ -75,6 +75,7 @@
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [aimart](https://aimart.app)
 - [FutureTools](https://www.futuretools.io/)
+- [list of notable products that use prompting](https://learnprompting.org/zh-Hans/docs/products)
 
 ## Extended Material
 
